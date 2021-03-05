@@ -1,0 +1,20 @@
+.root {
+    flex-grow: 1
+}
+.menuButton {
+    margin-right: 16px
+}
+.title {
+    flex-grow: 1
+}
+
+.navDisplayFlex {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+.linkText {
+    text-decoration: none;
+    text-transform: uppercase;
+    color: white;
+  }
