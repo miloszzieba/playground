@@ -1,7 +1,7 @@
 import React from 'react';
-import Header from './common/menu/Header';
+import { Switch } from "react-router-dom";
 import './App.css';
-import { Switch } from 'react-router-dom';
+import Header from './common/menu/Header';
 import RouteWithSubRoutes from './common/routing/RouteWithSubRoutes';
 
 import routes from "./routeConfig";
